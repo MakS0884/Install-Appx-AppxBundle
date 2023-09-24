@@ -31,7 +31,7 @@
 
  ### Данные для установки/обновления приложений и зависимых файлов через **https://store.rg-adguard.net/** с помощью этого скрипта, пример некоторых часто используемых приложений:
  ```
-  Центр управления графикой Intel   URL: https://www.microsoft.com/ru-ru/p/intel-graphics-command-center/9plfnlnt3g5g?activetab=pivot:overviewtab
+ Центр управления графикой Intel   URL: https://www.microsoft.com/ru-ru/p/intel-graphics-command-center/9plfnlnt3g5g?activetab=pivot:overviewtab
  NVIDIA Control Panel              URL: https://www.microsoft.com/ru-ru/p/nvidia-control-panel/9nf8h0h7wmlt?activetab=pivot:overviewtab
  Nahimic (A-Volute, 3D audio)      URL: https://www.microsoft.com/ru-ru/p/nahimic/9n36ppmp8s23?activetab=pivot:overviewtab
  AMD Radeon Settings Lite          URL: https://www.microsoft.com/ru-ru/p/amd-radeon-settings-lite/9n9370crz0fn?activetab=pivot:overviewtab
