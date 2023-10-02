@@ -48,5 +48,3 @@
  Microsoft.XboxIdentityProvider    URL: https://www.microsoft.com/ru-ru/p/xbox-identity-provider/9wzdncrd1hkw?activetab=pivot:overviewtab (Необходим для подключения консоли XBox)
  Microsoft.DesktopAppInstaller     URL: https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1?activetab=pivot:overviewtab (Необходим для установки Appx по двойному клику, но не всё так можно поставить)
  ```
-
-#### Nikitos нехуя не может.
